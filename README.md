@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, seja bem vindo, sou um estudante e entusiasta na área tecnológica, focando, inicialmente, no desenvolvimento Front End, no entanto, vislumbrando a área de Full Stack e a engenharia de software. Buscando sempre melhorar como profissional e pessoa.</p>
+<p align="left">Olá, seja bem vindo, sou um estudante e entusiasta na área tecnológica, tentando melhorar como pessoa, bem como, desenvolvedor python.</p>
 
 ###
 
