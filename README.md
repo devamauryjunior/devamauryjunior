@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, seja bem vindo, sou um estudante e entusiasta na área tecnológica, tentando melhorar como pessoa, bem como, desenvolvedor python.</p>
+<p align="left">Olá, seja bem vindo, sou um estudante e entusiasta na área tecnológica, tentando melhorar como pessoa, bem como, ser desenvolvedor python.</p>
 
 ###
 
