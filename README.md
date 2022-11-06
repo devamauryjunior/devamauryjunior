@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá, seja bem vindo, sou um estudante e entusiasta na área tecnológica, tentando melhorar como pessoa, bem como, ser desenvolvedor python.</p>
+<p align="left">Olá, seja bem vindo, sou um estudante e entusiasta na área tecnológica, tentando melhorar como pessoa, bem como, ser desenvolvedor full stack.</p>
 
 ###
 <div align="center">
@@ -26,8 +26,9 @@
 -->
 
 <p align="center">
+  <!-- Meus ícones -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,css,html,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,py,css,html,vscode" />
   </a>
 </p>
 
