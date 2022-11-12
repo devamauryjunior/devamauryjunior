@@ -28,7 +28,7 @@
 <p align="center">
   <!-- Meus ícones -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,css,html,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,vscode" />
   </a>
 </p>
 
