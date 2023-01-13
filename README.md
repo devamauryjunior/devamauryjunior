@@ -4,11 +4,6 @@
 
 <p align="left">Olá, seja bem vindo, sou um estudante e entusiasta na área tecnológica, tentando melhorar como pessoa, bem como, ser desenvolvedor full stack.</p>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=devamauryjunior" height="150" alt="languages graph"  />
-</div>
-
 <p align="center">
   <!-- Meus ícones -->
   <a href="https://skillicons.dev">
