@@ -22,7 +22,7 @@
 
 <div>
 <a href="https://github.com/devamauryjunior/">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?devamauryjunior&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devamauryjunior&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  
