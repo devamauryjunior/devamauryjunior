@@ -1,4 +1,4 @@
-# Me chamo Amaury Junior!
+# Olá, meu nome Amaury Junior!
 
 - 🔭 Atualmente estou trabalhando como estagiário na Delegacia de Polícia Civil do Estado de Minas Gerais, como Escrivão Ad-Hoc
 - 🌱 Atualmente estou aprendendo ReactJs
