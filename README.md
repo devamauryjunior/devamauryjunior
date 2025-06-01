@@ -1,10 +1,9 @@
 # Olá, meu nome Amaury Junior!
 
-- 🔭 Atualmente estou trabalhando como estagiário na Delegacia de Polícia Civil do Estado de Minas Gerais, como Escrivão Ad-Hoc
+- 🔭 Atualmente estou trabalhando como auxuliar administrativo na Defensoria Pública do Estado de Minas Gerais;
 - 🌱 Atualmente estou aprendendo ReactJs
-- 👯 Estou a procura de estágio, trainee ou emprego na área de desenvolvimento web, seja front-end, back-end ou full stack.
+- 👯 Estou a procura de oportunidades área de desenvolvimento web, seja front-end, back-end ou full stack.
 - 📫 Como entrar em contato comigo:
--- Tel: (33) 99986-2772
 -- E-mail: jobagpj@gmail.com
 
  ## Ferramentos e Tecnologias
